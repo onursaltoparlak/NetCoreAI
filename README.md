@@ -47,5 +47,5 @@ Projeler aşağıdaki yapay zeka uygulamalarını kapsayacak şekilde yapıland�
 
 1. Bu repoyu klonlayın:
    ```bash
-   git clone https://github.com/onursaltoparlak/YapayZeka-Entegrasyonlari.git
-   cd YapayZeka-Entegrasyonlari
+   git clone https://github.com/onursaltoparlak/NetCoreAI.git
+   cd NetCoreAI
