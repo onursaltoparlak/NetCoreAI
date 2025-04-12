@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BGNYWSVpj7U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Onursal Toparlak\\source\\repos\\NetCoreAI\\NetCoreAI.Project10_TextToSpeech\\NetCoreAI.Project10_TextToSpeech.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Onursal Toparlak\\.nuget\\packages\\system.speech\\9.0.3\\system.speech.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

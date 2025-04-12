@@ -1,0 +1,17 @@
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\bin\Debug\net9.0\NetCoreAI.Project09_OpenAITranslate.exe
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\bin\Debug\net9.0\NetCoreAI.Project09_OpenAITranslate.deps.json
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\bin\Debug\net9.0\NetCoreAI.Project09_OpenAITranslate.runtimeconfig.json
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\bin\Debug\net9.0\NetCoreAI.Project09_OpenAITranslate.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\bin\Debug\net9.0\NetCoreAI.Project09_OpenAITranslate.pdb
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\obj\Debug\net9.0\NetCoreAI.Project09_OpenAITranslate.csproj.AssemblyReference.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\obj\Debug\net9.0\NetCoreAI.Project09_OpenAITranslate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\obj\Debug\net9.0\NetCoreAI.Project09_OpenAITranslate.AssemblyInfoInputs.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\obj\Debug\net9.0\NetCoreAI.Project09_OpenAITranslate.AssemblyInfo.cs
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\obj\Debug\net9.0\NetCoreAI.Project09_OpenAITranslate.csproj.CoreCompileInputs.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\obj\Debug\net9.0\NetCoreA.FFB5F1AE.Up2Date
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\obj\Debug\net9.0\NetCoreAI.Project09_OpenAITranslate.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\obj\Debug\net9.0\refint\NetCoreAI.Project09_OpenAITranslate.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\obj\Debug\net9.0\NetCoreAI.Project09_OpenAITranslate.pdb
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\obj\Debug\net9.0\NetCoreAI.Project09_OpenAITranslate.genruntimeconfig.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\obj\Debug\net9.0\ref\NetCoreAI.Project09_OpenAITranslate.dll

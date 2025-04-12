@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "NetCoreAI.Project1_ApiDemo\\NetCoreAI.Project01_ApiDemo.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "NetCoreAI.Project2_ApiConsumeUI\\NetCoreAI.Project02_ApiConsumeUI.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.exe
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.deps.json
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.runtimeconfig.json
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.pdb
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.AssemblyInfoInputs.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.AssemblyInfo.cs
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.csproj.CoreCompileInputs.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\refint\NetCoreAI.Project19_CreateStoryWithAI.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.pdb
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.genruntimeconfig.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\ref\NetCoreAI.Project19_CreateStoryWithAI.dll

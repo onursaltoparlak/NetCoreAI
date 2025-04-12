@@ -1,0 +1,17 @@
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\bin\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.exe
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\bin\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.deps.json
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\bin\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.runtimeconfig.json
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\bin\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\bin\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.pdb
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.csproj.AssemblyReference.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.AssemblyInfoInputs.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.AssemblyInfo.cs
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.csproj.CoreCompileInputs.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreA.FAD0B363.Up2Date
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\refint\NetCoreAI.Project06_DallEImageGeneration.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.pdb
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.genruntimeconfig.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\ref\NetCoreAI.Project06_DallEImageGeneration.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "NetCoreAI.Project4_OpenAIChat/1.0.0": {
+        "runtime": {
+          "NetCoreAI.Project4_OpenAIChat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetCoreAI.Project4_OpenAIChat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

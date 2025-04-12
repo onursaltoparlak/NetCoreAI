@@ -1,0 +1,17 @@
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project3_RapidApi\bin\Debug\net9.0\NetCoreAI.Project3_RapidApi.exe
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project3_RapidApi\bin\Debug\net9.0\NetCoreAI.Project3_RapidApi.deps.json
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project3_RapidApi\bin\Debug\net9.0\NetCoreAI.Project3_RapidApi.runtimeconfig.json
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project3_RapidApi\bin\Debug\net9.0\NetCoreAI.Project3_RapidApi.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project3_RapidApi\bin\Debug\net9.0\NetCoreAI.Project3_RapidApi.pdb
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net9.0\NetCoreAI.Project3_RapidApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net9.0\NetCoreAI.Project3_RapidApi.AssemblyInfoInputs.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net9.0\NetCoreAI.Project3_RapidApi.AssemblyInfo.cs
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net9.0\NetCoreAI.Project3_RapidApi.csproj.CoreCompileInputs.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net9.0\NetCoreAI.Project3_RapidApi.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net9.0\refint\NetCoreAI.Project3_RapidApi.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net9.0\NetCoreAI.Project3_RapidApi.pdb
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net9.0\NetCoreAI.Project3_RapidApi.genruntimeconfig.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net9.0\ref\NetCoreAI.Project3_RapidApi.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project3_RapidApi\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net9.0\NetCoreAI.Project3_RapidApi.csproj.AssemblyReference.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net9.0\NetCoreA.D55B1F81.Up2Date

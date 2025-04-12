@@ -1,0 +1,14 @@
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project4_OpenAIChat\bin\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.exe
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project4_OpenAIChat\bin\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.deps.json
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project4_OpenAIChat\bin\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.runtimeconfig.json
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project4_OpenAIChat\bin\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project4_OpenAIChat\bin\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.pdb
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project4_OpenAIChat\obj\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project4_OpenAIChat\obj\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.AssemblyInfoInputs.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project4_OpenAIChat\obj\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.AssemblyInfo.cs
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project4_OpenAIChat\obj\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.csproj.CoreCompileInputs.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project4_OpenAIChat\obj\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project4_OpenAIChat\obj\Debug\net9.0\refint\NetCoreAI.Project04_OpenAIChat.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project4_OpenAIChat\obj\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.pdb
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project4_OpenAIChat\obj\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.genruntimeconfig.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project4_OpenAIChat\obj\Debug\net9.0\ref\NetCoreAI.Project04_OpenAIChat.dll

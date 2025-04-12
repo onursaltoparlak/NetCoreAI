@@ -1,0 +1,14 @@
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\bin\Debug\net9.0\NetCoreAI.Project05_OpenAIWhisperAudioTranskript.exe
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\bin\Debug\net9.0\NetCoreAI.Project05_OpenAIWhisperAudioTranskript.deps.json
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\bin\Debug\net9.0\NetCoreAI.Project05_OpenAIWhisperAudioTranskript.runtimeconfig.json
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\bin\Debug\net9.0\NetCoreAI.Project05_OpenAIWhisperAudioTranskript.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\bin\Debug\net9.0\NetCoreAI.Project05_OpenAIWhisperAudioTranskript.pdb
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\obj\Debug\net9.0\NetCoreAI.Project05_OpenAIWhisperAudioTranskript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\obj\Debug\net9.0\NetCoreAI.Project05_OpenAIWhisperAudioTranskript.AssemblyInfoInputs.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\obj\Debug\net9.0\NetCoreAI.Project05_OpenAIWhisperAudioTranskript.AssemblyInfo.cs
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\obj\Debug\net9.0\NetCoreAI.Project05_OpenAIWhisperAudioTranskript.csproj.CoreCompileInputs.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\obj\Debug\net9.0\NetCoreAI.Project05_OpenAIWhisperAudioTranskript.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\obj\Debug\net9.0\refint\NetCoreAI.Project05_OpenAIWhisperAudioTranskript.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\obj\Debug\net9.0\NetCoreAI.Project05_OpenAIWhisperAudioTranskript.pdb
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\obj\Debug\net9.0\NetCoreAI.Project05_OpenAIWhisperAudioTranskript.genruntimeconfig.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\obj\Debug\net9.0\ref\NetCoreAI.Project05_OpenAIWhisperAudioTranskript.dll

@@ -1,0 +1,17 @@
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\bin\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.exe
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\bin\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.deps.json
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\bin\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.runtimeconfig.json
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\bin\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\bin\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.pdb
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.csproj.AssemblyReference.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.AssemblyInfoInputs.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.AssemblyInfo.cs
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.csproj.CoreCompileInputs.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\obj\Debug\net9.0\NetCoreA.C70F170E.Up2Date
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\obj\Debug\net9.0\refint\NetCoreAI.Project14_ArticleSummarizeAI.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.pdb
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.genruntimeconfig.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\obj\Debug\net9.0\ref\NetCoreAI.Project14_ArticleSummarizeAI.dll

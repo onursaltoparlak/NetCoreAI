@@ -1,0 +1,17 @@
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project11_TextToSpeechWtihOpenAI\bin\Debug\net9.0\NetCoreAI.Project11_TextToSpeechWtihOpenAI.exe
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project11_TextToSpeechWtihOpenAI\bin\Debug\net9.0\NetCoreAI.Project11_TextToSpeechWtihOpenAI.deps.json
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project11_TextToSpeechWtihOpenAI\bin\Debug\net9.0\NetCoreAI.Project11_TextToSpeechWtihOpenAI.runtimeconfig.json
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project11_TextToSpeechWtihOpenAI\bin\Debug\net9.0\NetCoreAI.Project11_TextToSpeechWtihOpenAI.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project11_TextToSpeechWtihOpenAI\bin\Debug\net9.0\NetCoreAI.Project11_TextToSpeechWtihOpenAI.pdb
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project11_TextToSpeechWtihOpenAI\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project11_TextToSpeechWtihOpenAI\obj\Debug\net9.0\NetCoreAI.Project11_TextToSpeechWtihOpenAI.csproj.AssemblyReference.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project11_TextToSpeechWtihOpenAI\obj\Debug\net9.0\NetCoreAI.Project11_TextToSpeechWtihOpenAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project11_TextToSpeechWtihOpenAI\obj\Debug\net9.0\NetCoreAI.Project11_TextToSpeechWtihOpenAI.AssemblyInfoInputs.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project11_TextToSpeechWtihOpenAI\obj\Debug\net9.0\NetCoreAI.Project11_TextToSpeechWtihOpenAI.AssemblyInfo.cs
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project11_TextToSpeechWtihOpenAI\obj\Debug\net9.0\NetCoreAI.Project11_TextToSpeechWtihOpenAI.csproj.CoreCompileInputs.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project11_TextToSpeechWtihOpenAI\obj\Debug\net9.0\NetCoreA.4217BDC7.Up2Date
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project11_TextToSpeechWtihOpenAI\obj\Debug\net9.0\NetCoreAI.Project11_TextToSpeechWtihOpenAI.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project11_TextToSpeechWtihOpenAI\obj\Debug\net9.0\refint\NetCoreAI.Project11_TextToSpeechWtihOpenAI.dll
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project11_TextToSpeechWtihOpenAI\obj\Debug\net9.0\NetCoreAI.Project11_TextToSpeechWtihOpenAI.pdb
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project11_TextToSpeechWtihOpenAI\obj\Debug\net9.0\NetCoreAI.Project11_TextToSpeechWtihOpenAI.genruntimeconfig.cache
+C:\Users\Onursal Toparlak\source\repos\NetCoreAI\NetCoreAI.Project11_TextToSpeechWtihOpenAI\obj\Debug\net9.0\ref\NetCoreAI.Project11_TextToSpeechWtihOpenAI.dll

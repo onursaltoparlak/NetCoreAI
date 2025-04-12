@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "NetCoreAI.Project5_OpenAIWhisperAudioTranskript/1.0.0": {
+        "runtime": {
+          "NetCoreAI.Project5_OpenAIWhisperAudioTranskript.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetCoreAI.Project5_OpenAIWhisperAudioTranskript/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
